@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/messages/t/100001668862991";
+            window.location = "https://www.facebook.com/messages/t/HAHPAS.bmw/";
           },
         });
       }
